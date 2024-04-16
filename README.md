@@ -8,7 +8,7 @@ CRM Database: SQL Server Management Studio 19
 
 <h1>Planning Phase</h1>
 Before coding the chatbot and creating the tables for the database, I had to make an outline to plan out the main objectives of this project. To accurately break each stage down to ensure everything goes according to plan, I created a Work Breakdown Structure so I can follow it as each stage is completed. 
-<h2>Work Breakdown Structure</h2>
+<h3>Work Breakdown Structure</h3>
 Project Planning 
 <li>Define project objectives and scope</li> 
 <li>Conduct research and analysis on relevant sources</li>
@@ -37,11 +37,17 @@ Project Management and Monitoring
 <li>Manage project risks and issues</li> 
 <li>Conduct project review and evaluation</li>
 
-<h2>Create Tables on SQL</h2>
+<h3>Create Tables on SQL</h3>
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-<img width="1120" alt="DataScienceSalaries1" src=
+<img width="1120" alt="ImageLine1" src="https://github.com/idcruz99/Customer-Support-Chatbot-with-Database/assets/160052201/affaf86d-c1b1-4971-b45c-026cb4041afc">
+
+---------------------------------------------------------------------------------------------------------------------------
+
+<h3>Execute query to show ticket status with corresponding customer username</h3>
+
+---------------------------------------------------------------------------------------------------------------------------
 
 
 
