@@ -37,6 +37,11 @@ Project Management and Monitoring
 <li>Manage project risks and issues</li> 
 <li>Conduct project review and evaluation</li>
 
+<h2>Create Tables on SQL</h2>
+
+---------------------------------------------------------------------------------------------------------------------------
+
+<img width="1120" alt="DataScienceSalaries1" src=
 
 
 
