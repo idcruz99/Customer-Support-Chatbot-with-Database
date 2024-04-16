@@ -5,3 +5,12 @@ The intent of this project is to solve a business need for a music production so
 Live Customer Support Chatbot: (https://botpress.com/)
 
 CRM Database: SQL Server Management Studio 19
+
+<h1>Planning Phase</h1>
+Before coding the chatbot and creating the tables for the database, I had to make an outline to plan out the main objectives of this project. To accurately break each stage down to ensure everything goes according to plan, I created a Work Breakdown Structure so I can follow it as each stage is completed. 
+<h2>Work Breakdown Structure</h2>
+1.	Project Planning 
+1.1 Define project objectives and scope 
+1.2 Conduct research and analysis on relevant sources
+1.3 Define project timeline and milestones 
+
