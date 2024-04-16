@@ -70,3 +70,11 @@ Now that the tables have been created, I needed to populate them using fake data
 With the tables filled, the database is ready to be used with the chatbot. To make the chatbot, I used Botpress to create the conversation flow to be able to capture the user submitted tickets to then be stored into the database. The live customer support chatbot can be used by clicking this link: https://mediafiles.botpress.cloud/253a7d7a-2211-4a0c-9016-ea52787e5bdb/webchat/bot.html 
 
 <h3>Chatbot Conversation Flow</h3>
+
+---------------------------------------------------------------------------------------------------------------------------
+
+<img width="1120" alt="ImageLine5" src="https://github.com/idcruz99/Customer-Support-Chatbot-with-Database/assets/160052201/45b583c2-9e5a-4f48-b5e7-2480bf137d2b">
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
