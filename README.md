@@ -62,3 +62,7 @@ Now that the tables have been created, I needed to populate them using fake data
 <img width="1120" alt="ImageLine3" src="https://github.com/idcruz99/Customer-Support-Chatbot-with-Database/assets/160052201/b6d35f3b-93f3-4f9a-a44c-885983bfafd4">
 
 ---------------------------------------------------------------------------------------------------------------------------
+
+<img width="1120" alt="ImageLine4" src="https://github.com/idcruz99/Customer-Support-Chatbot-with-Database/assets/160052201/7354a7cb-8b5f-4aa4-9f03-708d4e6527bb">
+
+---------------------------------------------------------------------------------------------------------------------------
