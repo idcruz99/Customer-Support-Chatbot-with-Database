@@ -49,5 +49,14 @@ Project Management and Monitoring
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+<img width="1120" alt="ImageLine2" src="https://github.com/idcruz99/Customer-Support-Chatbot-with-Database/assets/160052201/43d14a8c-8d6a-4045-a616-7951dce23929">
+
+---------------------------------------------------------------------------------------------------------------------------
+
+<h1>Deployment Phase</h1>
+
+Now that the tables have been created, I needed to populate them using fake data as well as real data from user-testing. I did this to show the database's usability and functionalities.
+
+---------------------------------------------------------------------------------------------------------------------------
 
 
