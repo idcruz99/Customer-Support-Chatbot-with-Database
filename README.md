@@ -77,5 +77,5 @@ With the tables filled, the database is ready to be used with the chatbot. To ma
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-<img width="672" alt="ImageLine6" src="https://github.com/idcruz99/Customer-Support-Chatbot-with-Database/assets/160052201/ac03d376-89b2-4038-a6fa-8b968283843b">
+
 
