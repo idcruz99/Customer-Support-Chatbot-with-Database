@@ -86,6 +86,9 @@ With both the database and chatbot complete and fully functioning, all that is n
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+<img width="1120" alt="ImageLine8" src="https://github.com/idcruz99/Customer-Support-Chatbot-with-Database/assets/160052201/0f90dacc-c50b-4001-a806-2268c162fea0">
+
+---------------------------------------------------------------------------------------------------------------------------
 
 
 
