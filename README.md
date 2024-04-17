@@ -77,6 +77,8 @@ With the tables filled, the database is ready to be used with the chatbot. To ma
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+In order for the chatbot to only derive its answers from ImageLine's website, I had to edit its knowledge base. It is coded to answer any questions from their website, and if the user needs to submit a ticket, it will recognize that and be able to capture the user's ticket request and username to store it into the database on SQL.
+
 <img width="360" alt="ImageLine6" src="https://github.com/idcruz99/Customer-Support-Chatbot-with-Database/assets/160052201/a5e02a97-279b-4d16-a830-12b5ce1274a8">
 <img width="500" alt="ImageLine7" src="https://github.com/idcruz99/Customer-Support-Chatbot-with-Database/assets/160052201/814fc50a-cfc8-45d0-b9cd-dd179baa802b">
 
@@ -93,4 +95,6 @@ With both the database and chatbot complete and fully functioning, all that is n
 <h1>Closing</h1>
 
 To make sure everything was running smoothly, I conducted user acceptance testing to perform several different tasks using the software to ensure quality. This can be found in the word doc uploaded to this repository. 
+
+The success of this project was very dependent on the accuracy of coding the conversation flow for the chatbot, as well as properly formatting the tables on SQL. This required troubleshooting, making adjustments, and monitoring all steps needed to ensure success. Overall, this system is a great replacement for an outdated customer support system because it is faster, much more user-friendly, and overall more reliable. 
 
