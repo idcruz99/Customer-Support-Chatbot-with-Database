@@ -82,4 +82,10 @@ With the tables filled, the database is ready to be used with the chatbot. To ma
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+With both the database and chatbot complete and fully functioning, all that is needed is to transfer data from user-submitted tickets into the database. To see the tikets with their corresponding customers on SQL, I executed the following query below: 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+
 
